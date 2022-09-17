@@ -28,4 +28,4 @@ Incompatibilidade de impedância;
 Grande de Volume de dados acessar (cluester)
 Ele já possui a esttutura de objetos associados é um unidade natural de replica e fragmentadas.
 
-Todos os dados de um agregados estão armazenados juntos no mesmo Nodo cluster.
+Todos os dados de um agregados estão armazenados juntos no mesmo Nodo cluster
